@@ -1,0 +1,12 @@
+.contact1-form input {
+  margin-top: 15px;
+  border-radius: 10px;
+  padding: 10px;
+  text-align: center;
+}
+.booking-container {
+  background-image: url(../../../images/Background.jpg);
+  width: 100%;
+  background-size: cover;
+  background-position: center;
+}

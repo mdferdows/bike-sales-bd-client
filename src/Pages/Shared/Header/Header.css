@@ -1,0 +1,14 @@
+.header button {
+  background-color: rgb(255, 255, 255);
+  padding: 3px 10px!important;
+  border-radius: 15px;
+  color: rgb(1, 17, 2);
+font-size: 1.1em;}
+.header button:hover {
+  background-color: rgb(12, 143, 23);
+  color: rgb(255, 255, 255);
+}
+.userName {
+  text-decoration: none;
+  margin-left: 5px;
+}
